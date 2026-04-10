@@ -41,7 +41,7 @@ Investigates whether CNNs can extrapolate visual object counts beyond their trai
 
 ---
 
-### ETradie - Marketplace for Tradespeople
+### ETradie - Marketplace for Tradespeople (https://github.com/TomHuth9/ETradie)
 A full-stack web app connecting homeowners with local tradespeople in real time - "Uber for tradespeople." Homeowners post jobs; nearby tradespeople receive live notifications and can accept or decline. Features real-time job broadcasting via Socket.IO, geolocation-based discovery using the Nominatim/OpenStreetMap API, JWT authentication, in-app messaging, reviews, and a full REST API with Zod validation and rate limiting. Deployable on Render via an included blueprint.
 
 `Node.js` `Express` `Socket.IO` `PostgreSQL` `Prisma` `React` `JWT` `Docker`
