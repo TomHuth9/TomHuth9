@@ -50,11 +50,11 @@ A single-page web tool that rewrites AI-generated text into natural, human-sound
 
 ## Core Competencies
 
-- **API Design** — RESTful architecture, authentication systems, clean interface contracts
-- **Database Design** — Schema design, normalisation, query optimisation (PostgreSQL, MySQL)
-- **Software Engineering** — OOP principles, algorithms & data structures, clean code practices
-- **AI/ML** — Applied ML pipelines, computer vision, LLM integration
-- **Full-Stack Development** — End-to-end product delivery from backend to polished UI
+- **API Design** - RESTful architecture, authentication systems, clean interface contracts
+- **Database Design** - Schema design, normalisation, query optimisation (PostgreSQL, MySQL)
+- **Software Engineering** - OOP principles, algorithms & data structures, clean code practices
+- **AI/ML** - Applied ML pipelines, computer vision, LLM integration
+- **Full-Stack Development** - End-to-end product delivery from backend to polished UI
 
 ---
 
