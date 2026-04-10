@@ -34,17 +34,24 @@ Computer Science student at the **University of Glasgow**, building across the f
 
 ## Featured Projects
 
+### Counting Beyond the Training Range — Honours Dissertation
+Investigates whether CNNs can extrapolate visual object counts beyond their training distribution. Built a synthetic dataset of 21,000 images with controlled interpolation and extrapolation splits, then compared four architectural paradigms - a density map U-Net, pretrained ResNet-18, subitizing CNN, and AI-generated GAP model - under identical conditions. Key finding: the counting formulation matters more than architectural capacity or pretrained features. The density map model (MAE 0.270, degradation slope +0.013) outperformed all others including the pretrained ResNet-18, while cross-entropy classification failed catastrophically at the training ceiling.
+
+`Python` `PyTorch` `CNNs` `Computer Vision` `Deep Learning` `Research`
+
+---
+
+### ETradie - Marketplace for Tradespeople
+A full-stack web app connecting homeowners with local tradespeople in real time - "Uber for tradespeople." Homeowners post jobs; nearby tradespeople receive live notifications and can accept or decline. Features real-time job broadcasting via Socket.IO, geolocation-based discovery using the Nominatim/OpenStreetMap API, JWT authentication, in-app messaging, reviews, and a full REST API with Zod validation and rate limiting. Deployable on Render via an included blueprint.
+
+`Node.js` `Express` `Socket.IO` `PostgreSQL` `Prisma` `React` `JWT` `Docker`
+
+---
+
 ### AirTap - Gesture-Based Mobile Interaction
 A hand gesture prototype using **MediaPipe Hands** and computer vision to enable touchless finger-counting interaction on mobile devices. Built as part of a Mobile HCI research project exploring novel input modalities.
 
 `Python` `MediaPipe` `Computer Vision` `Mobile HCI`
-
----
-
-### AI Text Humanizer
-A single-page web tool that rewrites AI-generated text into natural, human-sounding prose using the **Claude API**. Features a clean broadsheet-inspired UI built entirely in HTML/CSS/JS.
-
-`JavaScript` `HTML/CSS` `Claude API` `NLP`
 
 ---
 
