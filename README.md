@@ -34,7 +34,7 @@ Computer Science student at the **University of Glasgow**, building across the f
 
 ## Featured Projects
 
-### Counting Beyond the Training Range — Honours Dissertation
+### Counting Beyond the Training Range - Honours Dissertation
 Investigates whether CNNs can extrapolate visual object counts beyond their training distribution. Built a synthetic dataset of 21,000 images with controlled interpolation and extrapolation splits, then compared four architectural paradigms - a density map U-Net, pretrained ResNet-18, subitizing CNN, and AI-generated GAP model - under identical conditions. Key finding: the counting formulation matters more than architectural capacity or pretrained features. The density map model (MAE 0.270, degradation slope +0.013) outperformed all others including the pretrained ResNet-18, while cross-entropy classification failed catastrophically at the training ceiling.
 
 `Python` `PyTorch` `CNNs` `Computer Vision` `Deep Learning` `Research`
