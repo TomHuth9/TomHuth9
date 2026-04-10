@@ -1,10 +1,10 @@
-# Hi, I'm Tom Huth 👋
+# Hi, I'm Tom Huth
 
 Computer Science student at the **University of Glasgow**, building across the full stack - from AI-powered tools and ML pipelines to clean APIs and polished frontends. Passionate about writing software that's both well-engineered and actually useful.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -32,23 +32,23 @@ Computer Science student at the **University of Glasgow**, building across the f
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤌 AirTap — Gesture-Based Mobile Interaction
+### AirTap — Gesture-Based Mobile Interaction
 A hand gesture prototype using **MediaPipe Hands** and computer vision to enable touchless finger-counting interaction on mobile devices. Built as part of a Mobile HCI research project exploring novel input modalities.
 
 `Python` `MediaPipe` `Computer Vision` `Mobile HCI`
 
 ---
 
-### ✍️ AI Text Humanizer
+### AI Text Humanizer
 A single-page web tool that rewrites AI-generated text into natural, human-sounding prose using the **Claude API**. Features a clean broadsheet-inspired UI built entirely in HTML/CSS/JS.
 
 `JavaScript` `HTML/CSS` `Claude API` `NLP`
 
 ---
 
-## 📊 Core Competencies
+## Core Competencies
 
 - **API Design** — RESTful architecture, authentication systems, clean interface contracts
 - **Database Design** — Schema design, normalisation, query optimisation (PostgreSQL, MySQL)
@@ -58,7 +58,7 @@ A single-page web tool that rewrites AI-generated text into natural, human-sound
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/tom-huth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomhuthbus@gmail.com)
