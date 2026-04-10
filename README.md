@@ -34,7 +34,7 @@ Computer Science student at the **University of Glasgow**, building across the f
 
 ## Featured Projects
 
-### AirTap — Gesture-Based Mobile Interaction
+### AirTap - Gesture-Based Mobile Interaction
 A hand gesture prototype using **MediaPipe Hands** and computer vision to enable touchless finger-counting interaction on mobile devices. Built as part of a Mobile HCI research project exploring novel input modalities.
 
 `Python` `MediaPipe` `Computer Vision` `Mobile HCI`
