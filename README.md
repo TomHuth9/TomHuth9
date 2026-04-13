@@ -4,7 +4,8 @@ Computer Science student at the **University of Glasgow**, building across the f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-huth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomhuthbus@gmail.com)
-[![tomhuth.dev](https://img.shields.io/badge/tomhuth.dev-111111?style=flat-square)](https://tomhuth.dev/)
+[![tomhuth.dev](https://img.shields.io/badge/tomhuth.dev-2ea44f?style=flat-square&logo=safari&logoColor=white)](https://tomhuth.dev/)
+
 ---
 
 ## Tech Stack
