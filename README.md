@@ -69,10 +69,4 @@ A hand gesture prototype using **MediaPipe Hands** and computer vision to enable
 
 ---
 
-## Get in Touch
-
-
-
----
-
 *Currently seeking graduate roles in Software Engineering, AI/ML, and Data Science - open to opportunities across the UK.*
