@@ -2,7 +2,7 @@
 
 Computer Science student at the **University of Glasgow**, building across the full stack - from AI-powered tools and ML pipelines to clean APIs and polished frontends. Passionate about writing software that's both well-engineered and actually useful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/tom-huth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-huth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomhuthbus@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://tomhuth.dev/)
 
@@ -75,4 +75,4 @@ A hand gesture prototype using **MediaPipe Hands** and computer vision to enable
 
 ---
 
-*Currently seeking graduate roles in Software Engineering, AI/ML, and Data Science — open to opportunities across the UK.*
+*Currently seeking graduate roles in Software Engineering, AI/ML, and Data Science - open to opportunities across the UK.*
