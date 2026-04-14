@@ -1,6 +1,6 @@
 # Hi, I'm Tom Huth
 
-Computer Science student at the **University of Glasgow**, building across the full stack - from AI-powered tools and ML pipelines to clean APIs and polished frontends. Passionate about writing software that's both well-engineered and actually useful.
+Computer Science student at the University of Glasgow, building across the full stack - from AI-powered tools and ML pipelines to clean APIs and polished frontends. Passionate about writing software that's both well-engineered and actually useful.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-huth)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomhuthbus@gmail.com)
@@ -29,6 +29,7 @@ Computer Science student at the **University of Glasgow**, building across the f
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -46,14 +47,21 @@ Investigates whether CNNs can extrapolate visual object counts beyond their trai
 ---
 
 ### ETradie - Marketplace for Tradespeople (https://github.com/TomHuth9/ETradie)
-A full-stack web app connecting homeowners with local tradespeople in real time - "Uber for tradespeople." Homeowners post jobs; nearby tradespeople receive live notifications and can accept or decline. Features real-time job broadcasting via Socket.IO, geolocation-based discovery using the Nominatim/OpenStreetMap API, JWT authentication, in-app messaging, reviews, and a full REST API with Zod validation and rate limiting. Deployable on Render via an included blueprint.
+A full-stack marketplace connecting homeowners with local tradespeople for on-demand job bookings. Homeowners post jobs with a location, which are geocoded and broadcast in real time to available tradespeople within a 25 km radius. Tradespeople accept or decline jobs through a live dashboard, with ownership-checked job lifecycle management (pending → accepted → completed → closed). Features role-based access control (homeowner / tradesperson), JWT authentication with pinned HS256 algorithm, proximity matching via the Haversine formula, job-scoped messaging, and a post-completion ratings system. Security-hardened REST API with per-route rate limiting, recursive input sanitisation, HTML tag stripping, Zod schema validation on all endpoints, atomic race-condition-safe job acceptance, and explicit body size limits. Covered by unit and end-to-end integration tests using Jest and Supertest, with component tests via Vitest and React Testing Library.
 
-`Node.js` `Express` `Socket.IO` `PostgreSQL` `Prisma` `React` `JWT` `Docker`
+`Node.js` `Express` `Socket.IO` `PostgreSQL` `Prisma` `React` `JWT`
 
 ---
 
-### AirTap - Gesture-Based Mobile Interaction
-A hand gesture prototype using **MediaPipe Hands** and computer vision to enable touchless finger-counting interaction on mobile devices. Built as part of a Mobile HCI research project exploring novel input modalities.
+### The Farm Gate - Farm-to-Door Delivery Marketplace (https://github.com/TomHuth9/TheFarmGate)
+A full-stack farm-to-door delivery app connecting local farm producers directly with customers. Customers browse products by category or farm, add items to a basket, and place orders - with postcodes automatically matched to a local collection centre. Farm producers manage their full product catalogue through a dedicated dashboard. Features role-based access control (customer / farm / admin), httpOnly cookie authentication with post-reset token invalidation, password reset via email, server-side price verification on orders, and a security-hardened REST API with rate limiting, NoSQL injection prevention, and input sanitisation. Covered by integration tests using Jest and Supertest against an in-memory MongoDB instance.
+
+`Node.js` `Express` `MongoDB` `Mongoose` `Angular` `JWT`
+
+---
+
+### AirTap - Gesture-Based Mobile Interaction (https://github.com/TomHuth9/Airtap)
+A hand gesture prototype using MediaPipe Hands and computer vision to enable touchless finger-counting interaction on mobile devices. Built as part of a Mobile HCI research project exploring novel input modalities.
 
 `Python` `MediaPipe` `Computer Vision` `Mobile HCI`
 
